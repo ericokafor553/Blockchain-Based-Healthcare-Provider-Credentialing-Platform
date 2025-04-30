@@ -9,3 +9,5 @@ J
 contracts/peer-review.clar,3/f/3fbff5bcca5f761a6bcd1d3c6652e581337d18f6
 J
 contracts/privileging.clar,0/a/0ae5462163908bea99468dd2d9163339b7abcc5b
+P
+ contracts/provider-identity.clar,0/f/0fb2c13f958d21cb54a9453b7c747307e11c1271
