@@ -5,3 +5,5 @@ U
 %contracts/education-verification.clar,a/a/aab1e9c2b21da83f596175b845a13c057904deac
 O
 contracts/license-tracking.clar,a/4/a4f50e163c5eb3adffac7401bd3c69198f69641d
+J
+contracts/peer-review.clar,3/f/3fbff5bcca5f761a6bcd1d3c6652e581337d18f6
