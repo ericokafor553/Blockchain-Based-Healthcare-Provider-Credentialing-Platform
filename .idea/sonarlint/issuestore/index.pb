@@ -7,3 +7,5 @@ O
 contracts/license-tracking.clar,a/4/a4f50e163c5eb3adffac7401bd3c69198f69641d
 J
 contracts/peer-review.clar,3/f/3fbff5bcca5f761a6bcd1d3c6652e581337d18f6
+J
+contracts/privileging.clar,0/a/0ae5462163908bea99468dd2d9163339b7abcc5b
